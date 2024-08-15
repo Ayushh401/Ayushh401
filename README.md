@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayushh401
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on to
 - 📫 How to reach me 
 
 <!---
